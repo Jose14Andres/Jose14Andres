@@ -5,7 +5,7 @@
 <p align="center">
 Desarrollador frontend apasionado por crear interfaces modernas, responsivas y accesibles.<br>
 Especialista en React, diseño UI/UX e implementación de soluciones web escalables.<br>
-Estudiante de Ingeniería en Tecnologías de la Información (TI) en UTI.
+Ingeniería en Tecnologías de la Información (TI) en UTI.
 </p>
 
 ---
