@@ -86,14 +86,7 @@ Experiencia en una entidad estatal clave del sector de telecomunicaciones del Ec
 - Sistema de autenticación y análisis de seguridad
 - Monitoreo y análisis de eventos de acceso
 - Enfoque en seguridad de la información
-
-### 🎚️ SideMK — Audio Plugin (Sidechain)
-`C++`
-
-- Plugin de audio de sidechain compression desarrollado para producción musical
-- Creado bajo mi marca **Lily Skies**
-- Une mis dos mundos: desarrollo de software y música
-
+  
 ---
 
 ## 🎓 Experiencia Académica
@@ -107,16 +100,6 @@ Experiencia en una entidad estatal clave del sector de telecomunicaciones del Ec
 - Sistemas de gestión empresarial
 - Análisis de seguridad en redes (Wireshark)
 - Documentación técnica y reportes profesionales
-
----
-
-## 🎵 También Soy Productor Musical
-
-**Lily Skies — Music Production**
-- Beats y tracks en plataformas de distribución
-- Catálogos en BeatStars y TRAKTRAIN
-- Géneros: Phonk, Reggaeton, Hip-Hop
-- YouTube Shorts: contenido educativo sobre producción musical
 
 ---
 
