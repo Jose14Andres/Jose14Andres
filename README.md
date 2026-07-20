@@ -10,22 +10,6 @@ Ingeniería en Tecnologías de la Información (TI) en UTI.
 
 ---
 
-## 💼 Experiencia Profesional
-
-### 🏛️ MINTEL — Ministerio de Telecomunicaciones y de la Sociedad de la Información
-**Prácticas Profesionales · Área de Sistemas / Regulación TIC**
-
-Experiencia en una entidad estatal clave del sector de telecomunicaciones del Ecuador, contribuyendo en tareas técnicas y de cumplimiento normativo:
-
-- 📊 Elaboración de **reportes en Excel** sobre el cumplimiento de operadores postales
-- 📋 Gestión y diligenciamiento de **documentación oficial** y registros de asistencia
-- 🔍 Apoyo en procesos de **supervisión y compliance** del sector regulado
-- 🤝 Trabajo dentro del marco regulatorio de **MINTEL / ARCOTEL**
-
-> 💡 Esta experiencia fortaleció mis habilidades en análisis de datos, documentación profesional y cumplimiento de normativas del sector público ecuatoriano.
-
----
-
 ## 💻 Stack Tecnológico
 
 **Frontend Principal**
