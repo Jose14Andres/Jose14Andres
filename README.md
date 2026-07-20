@@ -89,7 +89,7 @@ Ingeniería en Tecnologías de la Información (TI) en UTI.
 
 ## 📊 Actualmente Trabajando En
 
-- 🔄 Mejorando skills en React avanzado y performance optimization
+- 🔄 Mejorando skills en competencias Cloud Computing (AWS/Azure)
 - 🎨 Diseño de componentes reutilizables y design systems
 - 📚 Next.js y SSR para proyectos full-stack
 - 🚀 Deploying en Vercel y optimización de CI/CD
